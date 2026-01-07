@@ -1,16 +1,81 @@
-## Hi there 👋
 
-<!--
-**irinadmalex/irinadmalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋✨🔭🌱👯🤔💬📫😄⚡
 
-Here are some ideas to get you started:
+```markdown
+# Привет! 👋 Я Ирина Дмитриева
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Маркетинговый аналитик
+
+Увлечена превращением маркетинговых данных в практические инсайты. Опыт работы с SQL, Tableau и принятием решений на основе данных.
+
+🔍 **Сейчас:** Создаю портфолио по аналитике данных и ищу возможности в роли Marketing Analyst
+
+---
+
+### 🛠 Технические навыки
+
+**Аналитика и визуализация:**
+- Tableau Public, Google Data Studio
+- Продвинутый Excel (сводные таблицы, ВПР, Power Query)
+- Визуализация данных и создание дашбордов
+
+**Данные и SQL:**
+- SQL (BigQuery, SQLite)
+- Статистический анализ
+- A/B тестирование
+- Когортный анализ, RFM сегментация
+
+**Инструменты:**
+- Google Analytics 4
+- Python (базовый: pandas, matplotlib)
+- Git & GitHub
+
+---
+
+### 📂 Избранные проекты
+
+#### 📊 [Анализ эффективности маркетинговых каналов](https://github.com/irinadmalex/marketing-channels-analysis)
+Анализ 5 маркетинговых каналов для оптимизации ROI и распределения бюджета
+- **Инструменты:** SQL, Tableau, Google Sheets
+- **Ключевая находка:** Email-маркетинг показывает ROI 2888% с минимальным CAC
+- [Дашборд](https://public.tableau.com/views/MarketingChannelsPerformance/MarketingChannelsPerformanceAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/marketing-channels-analysis)
+
+#### 📈 [Когортный анализ и Retention клиентов](https://github.com/irinadmalex/customer-cohort-retention-analysis)
+Когортный анализ, выявляющий паттерны удержания и lifetime value
+- **Инструменты:** SQL, Tableau
+- **Ключевая находка:** 50% клиентов уходят в первый месяц - критическая точка удержания
+- [Дашборд](https://public.tableau.com/views/cohort_analysis_17652876649970/CustomerCohortAnalysisRetention?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/customer-cohort-retention-analysis)
+
+#### 🧪 [Статистический анализ A/B теста](https://github.com/irinadmalex/ab-test-statistical-analysis)
+Статистический анализ A/B теста с проверкой гипотез
+- **Инструменты:** SQL, Tableau, Excel
+- **Ключевая находка:** Вариант B показывает uplift 25% (p < 0.001)
+- [Дашборд](https://public.tableau.com/views/AB_test_17652866561720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/ab-test-statistical-analysis)
+
+#### 🎯 [RFM Сегментация клиентов](https://github.com/irinadmalex/rfm-customer-segmentation)
+RFM сегментация для персонализированных маркетинговых стратегий
+- **Инструменты:** SQL, Tableau
+- **Ключевая находка:** 15% клиентов (Champions) генерируют 40% выручки
+- [Дашборд](https://public.tableau.com/views/rfm_analysis_17652859685770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/rfm-customer-segmentation)
+
+---
+
+### 📫 Как связаться
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/irinadm/)
+- 📧 Email: irene.dm.alex@gmail.com
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/irina.dmitrieva/vizzes)
+- 💻 [GitHub](https://github.com/irinadmalex)
+
+---
+
+### 📚 Сейчас изучаю
+
+- Продвинутые оконные функции SQL
+- Python для анализа данных
+- Основы машинного обучения
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=irinadmalex&color=blueviolet)
+```

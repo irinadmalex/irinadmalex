@@ -1,26 +1,23 @@
-
-👋✨🔭🌱👯🤔💬📫😄⚡
-
-```markdown
-# Привет! 👋 Я Ирина Дмитриева
+# Портфолио. Дмитриева Ирина 
 
 ## 📊 Маркетинговый аналитик
 
-Увлечена превращением маркетинговых данных в практические инсайты. Опыт работы с SQL, Tableau и принятием решений на основе данных.
+Увлечена превращением данных в практические инсайты. Опыт работы с SQL, R, Tableau и принятием решений на основе данных.
+Ниже — подборка проектов, демонстрирующих мой подход к анализу маркетинговых данных и работе с метриками.
 
-🔍 **Сейчас:** Создаю портфолио по аналитике данных и ищу возможности в роли Marketing Analyst
+🔍 **Сейчас:** Ищу возможности в роли маркетингового аналитика, аналитика данных
 
 ---
 
 ### 🛠 Технические навыки
 
 **Аналитика и визуализация:**
-- Tableau Public, Google Data Studio
+- Tableau Public, Google Data Studio, Power BI
 - Продвинутый Excel (сводные таблицы, ВПР, Power Query)
 - Визуализация данных и создание дашбордов
 
 **Данные и SQL:**
-- SQL (BigQuery, SQLite)
+- SQL, R
 - Статистический анализ
 - A/B тестирование
 - Когортный анализ, RFM сегментация
@@ -49,29 +46,29 @@
 #### 🧪 [Статистический анализ A/B теста](https://github.com/irinadmalex/ab-test-statistical-analysis)
 Статистический анализ A/B теста с проверкой гипотез
 - **Инструменты:** SQL, Tableau, Excel
-- **Ключевая находка:** Вариант B показывает uplift 25% (p < 0.001)
+- **Ключевая находка:** Вариант B показывает uplift 30% (p < 0.001)
 - [Дашборд](https://public.tableau.com/views/AB_test_17652866561720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/ab-test-statistical-analysis)
 
 #### 🎯 [RFM Сегментация клиентов](https://github.com/irinadmalex/rfm-customer-segmentation)
 RFM сегментация для персонализированных маркетинговых стратегий
 - **Инструменты:** SQL, Tableau
-- **Ключевая находка:** 15% клиентов (Champions) генерируют 40% выручки
+- **Ключевая находка:** 22% клиентов (Champions) генерируют 60% выручки
 - [Дашборд](https://public.tableau.com/views/rfm_analysis_17652859685770/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Подробнее →](https://github.com/irinadmalex/rfm-customer-segmentation)
 
 ---
 
-### 📫 Как связаться
+### 📫 Контакты
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/irinadm/)
-- 📧 Email: irene.dm.alex@gmail.com
-- 📊 [Tableau Public](https://public.tableau.com/app/profile/irina.dmitrieva/vizzes)
-- 💻 [GitHub](https://github.com/irinadmalex)
+- [LinkedIn](https://www.linkedin.com/in/irinadm/)
+- Email: irene.dm.alex@gmail.com
+- [Tableau Public](https://public.tableau.com/app/profile/irina.dmitrieva/vizzes)
+- [GitHub](https://github.com/irinadmalex)
 
 ---
 
 ### 📚 Сейчас изучаю
 
-- Продвинутые оконные функции SQL
+- Продвинутые функции SQL
 - Python для анализа данных
 - Основы машинного обучения
 
